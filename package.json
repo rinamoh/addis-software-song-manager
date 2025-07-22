@@ -16,13 +16,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  
   "bugs": {
     "url": "https://github.com/rinamoh/addis-software-song-manager/issues"
   },
   "homepage": "https://github.com/rinamoh/addis-software-song-manager#readme",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
     "@reduxjs/toolkit": "^2.8.2",
+    "miragejs": "^0.1.48",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-redux": "^9.2.0",
